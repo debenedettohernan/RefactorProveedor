@@ -5,5 +5,5 @@ Discord + Bnder → coordinación diaria entre los 4 equipos
 SonarCloud (gratis para repos públicos) → calidad de código PHP automática
 --------------------------------------------------------------------------------------
 Participantes:
-Hernan-Juan Godia-Francisco Martini
+Hernan-Juan Godia-Francisco Martini-Juan Gomez
 
